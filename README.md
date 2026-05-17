@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software architect and developer with deep expertise in Java (fading), Kafka (stable), Kubernetes (stable) and machine learning (growing). I am also a part time MSCS student in UT Austin where I aim to develop a broad and rigorous understanding of core areas of computer science. I have a strong applied mathematics and statistics background, initially grounded in a Bachelor of Technology in Electrical Engineering from NIT Calicut and later developed with a Micromasters in Statistics and Data Science from Mitx.
+I am a software architect and developer.
+
+I have deep expertise in Java (25 years, but fading), Kafka (10 years, stable), Kubernetes (6 years, CKAD certified, stable) and machine learning (growing). 
+
+I am also a part time MSCS student in UT Austin where I aim to develop a broad and rigorous understanding of core areas of computer science. 
+
+I have a strong applied mathematics and statistics background, initially grounded in a Bachelor of Technology in Electrical Engineering from NIT Calicut and later developed with a Micromasters in Statistics and Data Science from Mitx.
