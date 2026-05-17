@@ -1,24 +1,32 @@
-## Hi there, I'm Zen 👋
+## Hi, I'm Zen 👋
 
-<!--
-**sensei-wu/sensei-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software architect and engineer based in Munich 🇩🇪, 
+currently pursuing an MSCS at UT Austin while building a rigorous 
+foundation in machine learning and computer science theory.
 
-Here are some ideas to get you started:
+25 years of production engineering — distributed systems, cloud 
+infrastructure, real-time data at scale — now combining with 
+graduate-level ML and statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical depth
 
-I am a software architect and developer.
+| Domain | Experience | Status |
+|---|---|---|
+| Java ecosystem | 25 years | Fading 🌅 |
+| Cloud (AWS Certified) | 10 years | Stable ☀️ |
+| Apache Kafka | 10 years | Stable ☀️ |
+| Kubernetes (CKAD) | 6 years | Stable ☀️ |
+| Databases | 20 years | Stable ☀️ |
+| Machine Learning | Since 2022 | Rising 🚀 |
 
-I have deep expertise in Java (25 years, but fading), Kafka (10 years, stable), Kubernetes (6 years, CKAD certified, stable) and machine learning (growing). 
+## Education
 
-I am also a part time MSCS student in UT Austin where I aim to develop a broad and rigorous understanding of core areas of computer science. 
+- **MSCS** — UT Austin (in progress)
+- **MicroMasters in Statistics and Data Science** — MITx
+- **B.Tech Electrical Engineering** — NIT Calicut
 
-I have a strong applied mathematics and statistics background, initially grounded in a Bachelor of Technology in Electrical Engineering from NIT Calicut and later developed with a Micromasters in Statistics and Data Science from Mitx.
+## Currently building
+
+- [`rl-course`] — Reinforcement learning from first principles: 
+  bandit algorithms → dynamic programming → tabular RL → deep RL, 
+  implemented alongside Sutton & Barto
