@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Zen 👋
 
 <!--
 **sensei-wu/sensei-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software architect and developer with deep expertise in Java (fading), Kafka (stable), Kubernetes (stable) and machine learning (growing). I am also a part time MSCS student in UT Austin where I aim to develop a broad and rigorous understanding of core areas of computer science. I have a strong applied mathematics and statistics background, initially grounded in a Bachelor of Technology in Electrical Engineering from NIT Calicut and later developed with a Micromasters in Statistics and Data Science from Mitx.
