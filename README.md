@@ -12,12 +12,12 @@ graduate-level ML and statistics.
 
 | Domain | Experience | Status |
 |---|---|---|
-| Java ecosystem | 25 years | Fading 🌅 |
-| Cloud (AWS Certified) | 10 years | Stable ☀️ |
-| Apache Kafka | 10 years | Stable ☀️ |
-| Kubernetes (CKAD) | 6 years | Stable ☀️ |
-| Databases | 20 years | Stable ☀️ |
-| Machine Learning | Since 2022 | Rising 🚀 |
+| Java ecosystem | 25 years | Fading ☀️☀️🌅 |
+| Cloud (AWS Certified) | 10 years | Stable ☀️☀️☀️ |
+| Apache Kafka | 10 years | Stable ☀️☀️☀️ |
+| Kubernetes (CKAD) | 8 years | Stable ☀️☀️☀️ |
+| Databases | 20 years | Stable ☀️☀️☀️ |
+| Machine Learning | Since 2022 | Rising 🌄🌄☀️ |
 
 ## Education
 
