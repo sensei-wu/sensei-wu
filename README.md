@@ -4,7 +4,7 @@ Senior software architect and engineer based in Munich 🇩🇪,
 currently pursuing an MSCS at UT Austin while building a rigorous 
 foundation in machine learning and computer science theory.
 
-25 years of production engineering — distributed systems, cloud 
+25 years of software engineering — distributed systems, cloud 
 infrastructure, real-time data at scale — now combining with 
 graduate-level ML and statistics.
 
