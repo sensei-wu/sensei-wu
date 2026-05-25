@@ -13,15 +13,15 @@ graduate-level ML and statistics.
 | Domain | Experience | Status |
 |---|---|---|
 | Java ecosystem | 25 years | Fading ☀️☀️🌅 |
-| Cloud (AWS Certified) | 10 years | Stable ☀️☀️☀️ |
-| Apache Kafka | 10 years | Stable ☀️☀️☀️ |
-| Kubernetes (CKAD) | 8 years | Stable ☀️☀️☀️ |
-| Databases | 20 years | Stable ☀️☀️☀️ |
-| Machine Learning | Since 2022 | Rising 🌄🌄☀️ |
+| Cloud architecture (AWS Certified, hands on in Azure) | 10 years | Stable ☀️☀️☀️ |
+| Distributed systems (expert in Apache Kafka) | 10 years | Stable ☀️☀️☀️ |
+| Kubernetes (CKAD, experienced in designing PCI-compliant cluster) | 8 years | Stable ☀️☀️☀️ |
+| Databases (relational and non-relational) | 20 years | Stable ☀️☀️☀️ |
+| Machine Learning (strong theoretical foundations; working toward RLHF methods and evaluation) | Since 2022 | Rising 🌄🌄☀️ |
 
 ## Education
 
-- **MSCS** — UT Austin (in progress)
+- **Master of Science in Computer Science** — UT Austin (in progress)
 - **MicroMasters in Statistics and Data Science** — MITx
 - **B.Tech Electrical Engineering** — NIT Calicut
 
