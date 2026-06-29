@@ -27,7 +27,7 @@ graduate-level ML and statistics.
 
 ## Currently building
 
-- [`rl-exp`] — Reinforcement learning from first principles: 
+- [`rl-exp`](https://github.com/sensei-wu/rl_exp) — Reinforcement learning from first principles: 
   bandit algorithms → dynamic programming → tabular RL → deep RL, 
   implemented alongside Sutton & Barto
 - [`matrix-preconditioning`](matrix-preconditioning) - Exploring the techniques and results of matrix preconditioning on some popular datasets
